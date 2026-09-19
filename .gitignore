@@ -1,0 +1,11 @@
+/build*/
+/outputs*/
+/logs*/
+__pycache__/
+*.o
+*.log
+*.csv
+*.history
+.cache/
+.vscode/
+.DS_Store
